@@ -8,7 +8,7 @@
 > 
 > 代码是为人类阅读而写，只是顺便能被机器执行罢了。——哈罗德·埃布尔森
 
-* [在线阅读](https://gensim.apachecn.org)
+* [在线阅读](https://gensim.flygon.net)
 * [AILearning 机器学习实战](https://github.com/apachecn/AILearning)
 ## 免责声明 - 【只供学习参考】
 
@@ -35,4 +35,4 @@ gensim-doc-zh <port>
 
 ## 赞助我
 
-![](http://www.apachecn.org/img/about/donate.jpg)
+![](http://www.flygon.net/img/about/donate.jpg)
